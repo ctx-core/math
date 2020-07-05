@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/math",
-	"version": "4.1.41",
+	"version": "4.1.42",
 	"description": "ctx-core math",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^15.5.22"
+		"@ctx-core/array": "^15.5.23"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.6"
