@@ -2,9 +2,9 @@
 	"name": "@ctx-core/math",
 	"version": "4.1.45",
 	"description": "ctx-core math",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
