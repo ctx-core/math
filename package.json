@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/math",
-	"version": "4.1.57",
+	"version": "4.1.58",
 	"description": "ctx-core math",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^16.0.8"
+		"@ctx-core/array": "^16.0.9"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.7"
