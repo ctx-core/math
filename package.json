@@ -1,39 +1,38 @@
 {
-  "name": "@ctx-core/math",
-  "version": "5.0.1",
-  "description": "ctx-core math",
-  "keywords": [
-    "ctx-core",
-    "math"
-  ],
-  "homepage": "https://github.com/ctx-core/math#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/math/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/math/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "dependencies": {
-    "@ctx-core/array": "workspace:*"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "421748421f721864c8b34a8355ffaf893c59504b"
+	"name": "@ctx-core/math",
+	"version": "5.0.1",
+	"description": "ctx-core math",
+	"keywords": [
+		"ctx-core",
+		"math"
+	],
+	"homepage": "https://github.com/ctx-core/math#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/math/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/math/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"dependencies": {
+		"@ctx-core/array": "workspace:*"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
