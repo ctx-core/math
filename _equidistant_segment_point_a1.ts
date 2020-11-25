@@ -21,7 +21,7 @@ export function _equidistant_segment_point_a1(opts: _equidistant_segment_point_a
 	return equidistant_segment_point_a1
 }
 export const _a1__point__segment__equidistant = _equidistant_segment_point_a1
-export type _equidistant_segment_point_a1_opts_type = {
-	length?: number
-	range?: number[]
+export interface _equidistant_segment_point_a1_opts_type {
+	length?:number
+	range?:number[]
 }
