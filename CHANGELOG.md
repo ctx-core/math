@@ -1,5 +1,12 @@
 # @ctx-core/math
 
+## 5.1.7
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@19.1.7
+
 ## 5.1.6
 
 ### Patch Changes
