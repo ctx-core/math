@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 5.1.10
+
+### Patch Changes
+
+- @ctx-core/array@19.1.10
+
 ## 5.1.9
 
 ### Patch Changes
