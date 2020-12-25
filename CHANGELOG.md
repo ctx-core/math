@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 5.1.13
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/array@19.1.13
+
 ## 5.1.12
 
 ### Patch Changes
