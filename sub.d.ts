@@ -1,4 +1,4 @@
 /**
- * Subtracts each in a1__denominator from the value
+ * Subtracts each in denominator_a1 from the value
  */
-export declare function sub(value: any, ...a1__denominator: any[]): any;
+export declare function sub(value: any, ...denominator_a1: any[]): any;

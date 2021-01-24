@@ -1,9 +1,9 @@
 /**
- * Subtracts each in a1__denominator from the value
+ * Subtracts each in denominator_a1 from the value
  */
-export function sub(value, ...a1__denominator) {
-	for (let i = 0; i < a1__denominator.length; i++) {
-		value -= a1__denominator[i]
+export function sub(value, ...denominator_a1) {
+	for (let i = 0; i < denominator_a1.length; i++) {
+		value -= denominator_a1[i]
 	}
 	return value
 }

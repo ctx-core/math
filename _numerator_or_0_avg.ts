@@ -9,4 +9,4 @@ export function _numerator_or_0_avg(numerator_a1: number[]) {
 			numerator => numerator || 0)
 	)
 }
-export const _avg__numerator__or__0 = _numerator_or_0_avg
+export { _numerator_or_0_avg as _avg__numerator__or__0 }

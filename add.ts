@@ -11,5 +11,7 @@ export function add(...numerator_a1: number[]) {
 /**
  * Sum of the numerators
  */
-export const _sum = add
-export const sum = _sum
+export {
+	add as _sum,
+	add as sum
+}

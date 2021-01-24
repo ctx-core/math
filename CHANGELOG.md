@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 5.1.26
+
+### Patch Changes
+
+- export as
+
 ## 5.1.25
 
 ### Patch Changes

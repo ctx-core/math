@@ -9,4 +9,4 @@ export function _fn_sum<I = number>(a1: I[], _numerator: (val: I) => number) {
 	}
 	return sum
 }
-export const _sum__fn = _fn_sum
+export { _fn_sum as _sum__fn }

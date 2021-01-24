@@ -9,4 +9,4 @@ export function _numerator_or_0_sum(numerator_a1: number[]) {
 			numerator => numerator || 0)
 	)
 }
-export const _sum__numerator__or__0 = _numerator_or_0_sum
+export { _numerator_or_0_sum as _sum__numerator__or__0 }

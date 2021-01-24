@@ -4,4 +4,4 @@
 export function _rad_deg(rad: number) {
 	return rad * (180.0 / Math.PI)
 }
-export const _deg__rad = _rad_deg
+export { _rad_deg as _deg__rad }

@@ -13,4 +13,4 @@ export function segment_point_index(value: number, point_a1: number[]) {
 	}
 	return -1
 }
-export const index__point__segment = segment_point_index
+export { segment_point_index as index__point__segment }
