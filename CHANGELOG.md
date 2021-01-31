@@ -1,5 +1,16 @@
 # @ctx-core/math
 
+## 6.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.0.0
+
 ## 5.1.29
 
 ### Patch Changes
