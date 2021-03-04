@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 6.0.18
+
+### Patch Changes
+
+- @ctx-core/array@20.1.15
+
 ## 6.0.17
 
 ### Patch Changes
