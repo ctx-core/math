@@ -1,7 +1,7 @@
 /**
  * Adds the arguments
  */
-export function add(...numerator_a1: number[]) {
+export function add(...numerator_a1:number[]) {
 	let sum = 0
 	for (let i = 0; i < numerator_a1.length; i++) {
 		sum += numerator_a1[i]
@@ -11,7 +11,4 @@ export function add(...numerator_a1: number[]) {
 /**
  * Sum of the numerators
  */
-export {
-	add as _sum,
-	add as sum
-}
+export { add as _sum, add as sum }
