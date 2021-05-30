@@ -1,11 +1,11 @@
 /**
  * Returns the index of the segment
  */
-export function segment_point_index(value: number, point_a1: number[]) {
-	const { length } = point_a1
+export function segment_point_index(value: number, point_a: number[]) {
+	const { length } = point_a
 	for (let i = 0; i < length; i++) {
-		const begin_point = point_a1[i]
-		const end_point = point_a1[i + 1]
+		const begin_point = point_a[i]
+		const end_point = point_a[i + 1]
 		if (
 			value >= begin_point
 			&& value <= end_point

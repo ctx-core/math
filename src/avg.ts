@@ -1,7 +1,7 @@
 import { sum } from './add'
 /**
- * Average of the numerator_a1
+ * Average of the numerator_a
  */
-export function avg(...numerator_a1: number[]) {
-	return sum(...numerator_a1) / numerator_a1.length
+export function avg(...numerator_a: number[]) {
+	return sum(...numerator_a) / numerator_a.length
 }

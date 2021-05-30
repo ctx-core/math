@@ -1,10 +1,10 @@
 /**
  * Adds the arguments
  */
-export function add(...numerator_a1:number[]) {
+export function add(...numerator_a:number[]) {
 	let sum = 0
-	for (let i = 0; i < numerator_a1.length; i++) {
-		sum += numerator_a1[i]
+	for (let i = 0; i < numerator_a.length; i++) {
+		sum += numerator_a[i]
 	}
 	return sum
 }
