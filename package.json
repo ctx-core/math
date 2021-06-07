@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/math",
-	"version": "7.0.12",
+	"version": "7.0.13",
 	"description": "ctx-core math",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^21.2.7"
+		"@ctx-core/array": "workspace:^21.2.8"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.2"
