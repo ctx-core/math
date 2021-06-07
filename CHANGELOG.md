@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 7.0.12
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.7
+
 ## 7.0.11
 
 ### Patch Changes
