@@ -1,5 +1,17 @@
 # @ctx-core/math
 
+## 9.0.0
+
+### Major Changes
+
+- add,div,mean,mul,numerator*or_0_avg*,numerator*or_0_sum*,sub: argument: array instead of spread
+
+### Minor Changes
+
+- fn*mean* alias from fn*avg*
+- feat: median
+- mean alias from avg
+
 ## 8.0.0
 
 ### Major Changes

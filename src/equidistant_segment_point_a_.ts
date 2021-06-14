@@ -2,7 +2,7 @@ import { _last } from '@ctx-core/array'
 /**
  * Returns an array of eqidistant segment boundaries from the count & range
  */
-export function equidistant_segment_point_a_(opts:equidistant_segment_point_a__opts_I) {
+export function equidistant_segment_point_a_(opts:equidistant_segment_point_a__opts_I):number[] {
 	const {
 		length = 1,
 		range = [],

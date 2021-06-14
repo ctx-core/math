@@ -1,7 +1,7 @@
 /**
  * Radians to Degrees
  */
-export function rad_deg_(rad:number) {
+export function rad_deg_(rad:number):number {
 	return rad * (180.0 / Math.PI)
 }
 export {

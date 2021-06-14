@@ -1,7 +1,7 @@
 /**
  * Returns the index of the segment
  */
-export function segment_point_index(value: number, point_a: number[]) {
+export function segment_point_index(value:number, point_a:number[]):number {
 	const { length } = point_a
 	for (let i = 0; i < length; i++) {
 		const begin_point = point_a[i]

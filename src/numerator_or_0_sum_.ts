@@ -2,7 +2,7 @@ import { fn_sum_ } from './fn_sum_'
 /**
  * Returns the sum of the items in numerator_a, adding 0 if an item is falsy.
  */
-export function numerator_or_0_sum_(numerator_a:number[]) {
+export function numerator_or_0_sum_(numerator_a:number[]):number {
 	return (
 		fn_sum_(
 			numerator_a,

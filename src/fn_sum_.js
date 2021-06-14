@@ -1,12 +1,12 @@
 /**
- * Returns the sum of the values mapped by _numerator
+ * Returns the sum of the values mapped by numerator_
  */
-export function fn_sum_(a, _numerator) {
+export function fn_sum_(a, numerator_) {
     let sum = 0;
     if (!a)
         return sum;
     for (let i = 0; i < a.length; i++) {
-        sum += _numerator(a[i]);
+        sum += numerator_(a[i]);
     }
     return sum;
 }

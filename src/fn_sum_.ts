@@ -1,11 +1,11 @@
 /**
- * Returns the sum of the values mapped by _numerator
+ * Returns the sum of the values mapped by numerator_
  */
-export function fn_sum_<I = number>(a:I[], _numerator:(val:I)=>number) {
+export function fn_sum_<I = number>(a:I[], numerator_:(val:I)=>number):number {
 	let sum = 0
 	if (!a) return sum
 	for (let i = 0; i < a.length; i++) {
-		sum += _numerator(a[i])
+		sum += numerator_(a[i])
 	}
 	return sum
 }

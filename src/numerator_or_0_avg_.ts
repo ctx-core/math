@@ -1,10 +1,10 @@
-import { fn_avg_ } from './fn_avg_'
+import { fn_mean_ } from './fn_mean_'
 /**
  * Averages the items in in a1, adding 0 if the item is falsy
  */
-export function numerator_or_0_avg_(numerator_a:number[]) {
+export function numerator_or_0_avg_(numerator_a:number[]):number {
 	return (
-		fn_avg_(
+		fn_mean_(
 			numerator_a,
 			numerator=>numerator || 0)
 	)

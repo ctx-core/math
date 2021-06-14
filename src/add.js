@@ -1,7 +1,7 @@
 /**
  * Adds the arguments
  */
-export function add(...numerator_a) {
+export function add(numerator_a) {
     let sum = 0;
     for (let i = 0; i < numerator_a.length; i++) {
         sum += numerator_a[i];

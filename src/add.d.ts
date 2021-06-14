@@ -1,7 +1,7 @@
 /**
  * Adds the arguments
  */
-export declare function add(...numerator_a: number[]): number;
+export declare function add(numerator_a: number[]): number;
 /**
  * Sum of the numerators
  */
