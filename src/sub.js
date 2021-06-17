@@ -1,10 +1,11 @@
 /**
- * Subtracts each in denominator_a from the value
+ * Subtracts rest of values from first value
  */
-export function sub(value, denominator_a) {
-    for (let i = 0; i < denominator_a.length; i++) {
-        value -= denominator_a[i];
+export function sub(values) {
+    let val = values[0];
+    for (let i = 1; i < values.length; i++) {
+        val -= values[i];
     }
-    return value;
+    return val;
 }
 //# sourceMappingURL=src/sub.js.map

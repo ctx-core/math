@@ -1,9 +1,10 @@
 /**
- * Divides each in denominator_a from the value
+ * Divides rest of values from the first val
  */
-export function div(value:number, denominator_a:number[]):number {
-	for (let i = 0; i < denominator_a.length; i++) {
-		value /= denominator_a[i]
+export function div(values:number[]):number {
+	let val = values[0]
+	for (let i = 1; i < values.length; i++) {
+		val /= values[i]
 	}
-	return value
+	return val
 }

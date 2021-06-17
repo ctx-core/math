@@ -1,4 +1,4 @@
 /**
- * Subtracts each in denominator_a from the value
+ * Subtracts rest of values from first value
  */
-export declare function sub(value: number, denominator_a: number[]): number;
+export declare function sub(values: number[]): number;

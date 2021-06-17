@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.0.3
+
+### Patch Changes
+
+- fix: div,mul,sub: single array argument to apply arithmetic on
+
 ## 9.0.2
 
 ### Patch Changes

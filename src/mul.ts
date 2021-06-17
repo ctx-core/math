@@ -1,9 +1,10 @@
 /**
  * Multiplies the arguments
  */
-export function mul(product:number, numerator_a:number[]):number {
-	for (let i = 0; i < numerator_a.length; i++) {
-		product *= numerator_a[i]
+export function mul(values:number[]):number {
+	let val = values[0]
+	for (let i = 1; i < values.length; i++) {
+		val *= values[i]
 	}
-	return product
+	return val
 }
