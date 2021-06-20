@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 9.0.6
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.6
+
 ## 9.0.5
 
 ### Patch Changes
