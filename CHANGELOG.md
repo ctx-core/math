@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 9.0.7
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.7
+
 ## 9.0.6
 
 ### Patch Changes
