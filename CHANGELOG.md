@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 9.0.10
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.11
+
 ## 9.0.9
 
 ### Patch Changes
