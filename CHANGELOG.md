@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 9.0.13
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.16
+
 ## 9.0.12
 
 ### Patch Changes
