@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.2.0
+
+### Minor Changes
+
+- - quantile,std
+
 ## 9.1.2
 
 ### Patch Changes
