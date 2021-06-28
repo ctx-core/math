@@ -1,4 +1,4 @@
-export function quantile(a:number[], q_a:number[]) {
+export function quantile_(a:number[], q_a:number[]) {
 	const sorted = a.slice().sort()
 	return q_a.map(q=>{
 		const pos = (sorted.length - 1) * q
@@ -10,4 +10,7 @@ export function quantile(a:number[], q_a:number[]) {
 			return sorted[base]
 		}
 	})
+}
+export {
+	quantile_ as quantile
 }

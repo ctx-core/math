@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.3.0
+
+### Minor Changes
+
+- - quantile\_ as quantile
+
 ## 9.2.0
 
 ### Minor Changes
