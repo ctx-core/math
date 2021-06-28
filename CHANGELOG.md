@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.1.0
+
+### Minor Changes
+
+- - sum*,mean*,median\_
+
 ## 9.0.13
 
 ### Patch Changes
