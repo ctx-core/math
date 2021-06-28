@@ -1,5 +1,17 @@
 # @ctx-core/math
 
+## 9.1.2
+
+### Patch Changes
+
+- update dependencies
+
+## 9.1.1
+
+### Patch Changes
+
+- fix: median\_: length is even: average two mid-point values
+
 ## 9.1.0
 
 ### Minor Changes
