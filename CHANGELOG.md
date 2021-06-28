@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.3.1
+
+### Patch Changes
+
+- quantile,std: explicit return type
+
 ## 9.3.0
 
 ### Minor Changes
