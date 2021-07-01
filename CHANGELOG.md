@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 9.3.3
+
+### Patch Changes
+
+- typescript: ^4.3.4 -> ^4.3.5
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.1.2
+
 ## 9.3.2
 
 ### Patch Changes
