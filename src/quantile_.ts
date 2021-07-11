@@ -1,15 +1,24 @@
-export function quantile_(a:number[], q_a:number[]):number[] {
-	const sorted = a.slice().sort()
-	return q_a.map(q=>{
-		const pos = (sorted.length - 1) * q
-		const base = Math.floor(pos)
+import { isNumber } from '@ctx-core/number'
+export function quantile_<Bound extends number[]>(
+	a:number[], bound_a:Bound, sorted_ = quantile_sorted_
+):Bound {
+	const sorted = sorted_(a)
+	return bound_a.map(q=>{
+		const pos = Math.floor((sorted.length - 1) * q)
+		const base = pos
 		const rest = pos - base
-		if (sorted[base + 1] !== undefined) {
-			return sorted[base] + rest * (sorted[base + 1] - sorted[base])
-		} else {
-			return sorted[base]
-		}
-	})
+		const quantile_val = (
+			(sorted[base + 1] !== undefined)
+			? sorted[base] + rest * (sorted[base + 1] - sorted[base])
+			: sorted[base]
+		)
+		return quantile_val
+	}) as Bound
+}
+export function quantile_sorted_(a:number[]):number[] {
+	return a.filter(isNumber).sort((val0, val1)=>
+		val0 - val1
+	)
 }
 export {
 	quantile_ as quantile

@@ -1,5 +1,15 @@
 # @ctx-core/math
 
+## 9.4.0
+
+### Minor Changes
+
+- quantile*: sorted* argument
+
+### Patch Changes
+
+- fix: quantile\_: default sorting
+
 ## 9.3.3
 
 ### Patch Changes
