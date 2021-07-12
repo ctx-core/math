@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.5.0
+
+### Minor Changes
+
+- std\_: aliases std
+
 ## 9.4.3
 
 ### Patch Changes
