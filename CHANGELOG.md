@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.4.3
+
+### Patch Changes
+
+- fix: median\_
+
 ## 9.4.2
 
 ### Patch Changes
