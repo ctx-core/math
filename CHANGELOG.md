@@ -1,5 +1,12 @@
 # @ctx-core/math
 
+## 9.5.1
+
+### Patch Changes
+
+- fix: std\_: return 0 when array has 0 or 1 value
+- median\_: handle numerator_a having 0 or 1 value
+
 ## 9.5.0
 
 ### Minor Changes
