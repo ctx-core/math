@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.5.2
+
+### Patch Changes
+
+- fix: quantile\_: handle empty input array
+
 ## 9.5.1
 
 ### Patch Changes

@@ -4,6 +4,7 @@ export function quantile_<Bound extends number[]>(
 ):Bound {
 	const sorted = sorted_(a)
 	return bound_a.map(q=>{
+		if (sorted.length === 0) return 0
 		const pos = Math.floor((sorted.length - 1) * q)
 		const base = pos
 		const rest = pos - base
