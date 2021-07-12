@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 9.4.2
+
+### Patch Changes
+
+- update dependencies
+
 ## 9.4.1
 
 ### Patch Changes
