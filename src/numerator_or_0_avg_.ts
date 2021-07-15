@@ -1,4 +1,4 @@
-import { fn_mean_ } from './fn_mean_'
+import { fn_mean_ } from './fn_mean_.js'
 /**
  * Averages the items in in a1, adding 0 if the item is falsy
  */

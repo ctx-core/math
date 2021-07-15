@@ -1,4 +1,4 @@
-import { fn_sum_ } from './fn_sum_'
+import { fn_sum_ } from './fn_sum_.js'
 /**
  * Returns the sum of the items in numerator_a, adding 0 if an item is falsy.
  */

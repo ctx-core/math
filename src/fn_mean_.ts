@@ -1,4 +1,4 @@
-import { fn_sum_ } from './fn_sum_'
+import { fn_sum_ } from './fn_sum_.js'
 /**
  * Averages the items in in a
  */

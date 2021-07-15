@@ -1,4 +1,4 @@
-import { sum } from './add'
+import { sum } from './add.js'
 /**
  * Average of the numerator_a
  */

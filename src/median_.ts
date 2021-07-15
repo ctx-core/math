@@ -1,5 +1,5 @@
 import { isNumber } from '@ctx-core/number'
-import { mean_ } from './mean_'
+import { mean_ } from './mean_.js'
 export function median_(numerator_a:number[], sorted_ = median_sorted_):number {
 	if (numerator_a.length === 0) {
 		return 0
