@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.2
+  - @ctx-core/number@8.0.2
+
 ## 10.0.1
 
 ### Patch Changes
