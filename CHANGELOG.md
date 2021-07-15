@@ -1,5 +1,17 @@
 # @ctx-core/math
 
+## 10.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.0
+  - @ctx-core/number@8.0.0
+
 ## 9.5.2
 
 ### Patch Changes
