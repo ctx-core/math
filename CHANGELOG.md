@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.8
+  - @ctx-core/number@8.0.7
+
 ## 10.0.6
 
 ### Patch Changes
