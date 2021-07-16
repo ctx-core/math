@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.6
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.7
+  - @ctx-core/number@8.0.6
+
 ## 10.0.5
 
 ### Patch Changes
