@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.8
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.9
+  - @ctx-core/number@8.0.8
+
 ## 10.0.7
 
 ### Patch Changes
