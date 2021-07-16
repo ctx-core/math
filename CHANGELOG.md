@@ -1,5 +1,23 @@
 # @ctx-core/math
 
+## 10.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.6
+  - @ctx-core/number@8.0.5
+
+## 10.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.5
+  - @ctx-core/number@8.0.4
+
 ## 10.0.3
 
 ### Patch Changes
