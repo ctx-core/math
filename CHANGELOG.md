@@ -1,5 +1,23 @@
 # @ctx-core/math
 
+## 10.0.10
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.11
+  - @ctx-core/number@8.0.10
+
+## 10.0.9
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.10
+  - @ctx-core/number@8.0.9
+
 ## 10.0.8
 
 ### Patch Changes
