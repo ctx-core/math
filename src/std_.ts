@@ -1,5 +1,5 @@
-import { mean_ } from './mean_.js'
 import { sum_ } from './add.js'
+import { mean_ } from './mean_.js'
 // sample standard deviation
 export function std_(a:number[]):number {
 	if (a.length <= 1) return 0
