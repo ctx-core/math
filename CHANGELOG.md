@@ -1,5 +1,16 @@
 # @ctx-core/math
 
+## 10.0.20
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @swc/core: ^1.2.108 -> ^1.2.110
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/array@23.0.25
+  - @ctx-core/number@8.0.19
+
 ## 10.0.19
 
 ### Patch Changes

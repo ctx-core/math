@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/math",
-	"version": "10.0.19",
+	"version": "10.0.20",
 	"description": "ctx-core math",
 	"keywords": [
 		"ctx-core",
@@ -35,13 +35,13 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.24",
-		"@ctx-core/number": "workspace:^8.0.18"
+		"@ctx-core/array": "workspace:^23.0.25",
+		"@ctx-core/number": "workspace:^8.0.19"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.51",
-		"@swc/core": "^1.2.108",
-		"typescript": "^4.4.4"
+		"@swc/core": "^1.2.110",
+		"typescript": "^4.5.2"
 	},
 	"publishConfig": {
 		"access": "public",
