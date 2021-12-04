@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.24
+
+### Patch Changes
+
+- @swc/core: ^1.2.116 -> ^1.2.117
+- Updated dependencies
+  - @ctx-core/array@23.0.29
+  - @ctx-core/number@8.0.23
+
 ## 10.0.23
 
 ### Patch Changes
