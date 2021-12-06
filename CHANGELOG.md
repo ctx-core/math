@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.26
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/array@23.0.32
+  - @ctx-core/number@8.0.25
+
 ## 10.0.25
 
 ### Patch Changes
