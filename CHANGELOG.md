@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.30
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/array@23.0.36
+  - @ctx-core/number@8.0.29
+
 ## 10.0.29
 
 ### Patch Changes
