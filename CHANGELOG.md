@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.29
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/array@23.0.35
+  - @ctx-core/number@8.0.28
+
 ## 10.0.28
 
 ### Patch Changes
