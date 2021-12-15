@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.28
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/array@23.0.34
+  - @ctx-core/number@8.0.27
+
 ## 10.0.27
 
 ### Patch Changes
