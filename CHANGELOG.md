@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.31
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/array@23.0.37
+  - @ctx-core/number@8.0.30
+
 ## 10.0.30
 
 ### Patch Changes
