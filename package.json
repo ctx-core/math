@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/math",
-	"version": "10.0.32",
+	"version": "10.0.33",
 	"description": "ctx-core math",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
@@ -35,8 +35,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.38",
-		"@ctx-core/number": "workspace:^8.0.31"
+		"@ctx-core/array": "workspace:^23.0.39",
+		"@ctx-core/number": "workspace:^8.0.32"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",

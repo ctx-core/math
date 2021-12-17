@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.33
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/array@23.0.39
+  - @ctx-core/number@8.0.32
+
 ## 10.0.32
 
 ### Patch Changes
