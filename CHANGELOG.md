@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.36
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/number@8.0.35
+
 ## 10.0.35
 
 ### Patch Changes

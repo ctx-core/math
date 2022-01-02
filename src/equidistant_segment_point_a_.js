@@ -1,16 +1,16 @@
 import { last_ } from '@ctx-core/array'
 /**
  * Returns an array of eqidistant segment boundaries from the count & range
+ * @type { import(equidistant_segment_point_a_).equidistant_segment_point_a_}
  */
-export function equidistant_segment_point_a_(opts:equidistant_segment_point_a__opts_I):number[] {
-	const {
-		length = 1,
-		range = [],
-	} = opts
+export const equidistant_segment_point_a_ = opts=>{
+	const { length = 1, range = [], } = opts
 	const low = range[0] || 0
-	const high = last_<number>(range) || 1
-	const step = 1.0 * (high - low) / length
-	let equidistant_segment_point_a = [low]
+	const high = last_(range) || 1
+	const step = 1 * (high - low) / length
+	let equidistant_segment_point_a = [
+		low
+	]
 	let i = 0
 	let segment_current_boundary = low
 	while (i < length) {
@@ -19,10 +19,6 @@ export function equidistant_segment_point_a_(opts:equidistant_segment_point_a__o
 		equidistant_segment_point_a.push(segment_current_boundary)
 	}
 	return equidistant_segment_point_a
-}
-export interface equidistant_segment_point_a__opts_I {
-	length?:number
-	range?:number[]
 }
 export {
 	equidistant_segment_point_a_ as _equidistant_segment_point_a1,

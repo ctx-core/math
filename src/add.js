@@ -1,7 +1,8 @@
 /**
  * Adds the arguments
+ * @type {import(add).add}
  */
-export function add(numerator_a:number[]):number {
+export const add = numerator_a=>{
 	let sum = 0
 	for (let i = 0; i < numerator_a.length; i++) {
 		sum += numerator_a[i]
@@ -11,8 +12,4 @@ export function add(numerator_a:number[]):number {
 /**
  * Sum of the numerators
  */
-export {
-	add as _sum,
-	add as sum,
-	add as sum_,
-}
+export { add as _sum, add as sum, add as sum_, }
