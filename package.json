@@ -34,7 +34,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.1.0",
+		"@ctx-core/array": "workspace:^23.1.1",
 		"@ctx-core/number": "workspace:^8.0.35"
 	},
 	"devDependencies": {
