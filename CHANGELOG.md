@@ -1,5 +1,15 @@
 # @ctx-core/math
 
+## 10.0.38
+
+### Patch Changes
+
+- uvu: ^0.5.2 -> ^0.5.3
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/array@23.1.3
+  - @ctx-core/number@8.0.37
+
 ## 10.0.37
 
 ### Patch Changes
