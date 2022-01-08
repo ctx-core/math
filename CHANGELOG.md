@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.39
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/array@23.1.4
+  - @ctx-core/number@8.0.38
+
 ## 10.0.38
 
 ### Patch Changes
