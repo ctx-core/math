@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.0.40
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/array@24.0.0
+
 ## 10.0.39
 
 ### Patch Changes
