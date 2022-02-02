@@ -1,1 +1,1 @@
-export declare const PHI: number;
+export declare const PHI:number

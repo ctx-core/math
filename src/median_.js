@@ -1,20 +1,20 @@
-import { isNumber } from '@ctx-core/number';
-import { mean_ } from './mean_.js';
+import { isNumber } from '@ctx-core/number'
+import { mean_ } from './mean_.js'
 /** @type {import('./median_').median_} */
 export const median_ = (numerator_a, sorted_ = median_sorted_)=>{
-    if (numerator_a.length === 0) {
-        return 0;
-    } else if (numerator_a.length === 1) {
-        return numerator_a[0];
-    }
-    const sorted = sorted_(numerator_a);
-    const half = sorted.length / 2;
-    return sorted.length % 2 == 0 ? sorted[half] : mean_([
-        sorted[Math.ceil(half)],
-        sorted[Math.floor(half)]
-    ]);
+	if (numerator_a.length === 0) {
+		return 0
+	} else if (numerator_a.length === 1) {
+		return numerator_a[0]
+	}
+	const sorted = sorted_(numerator_a)
+	const half = sorted.length / 2
+	return sorted.length % 2 == 0 ? sorted[half] : mean_([
+		sorted[Math.ceil(half)],
+		sorted[Math.floor(half)]
+	])
 }
 export function median_sorted_(a) {
-    return a.filter(isNumber).sort((val0, val1)=>val0 - val1
-    );
+	return a.filter(isNumber).sort((val0, val1)=>val0 - val1
+	)
 }

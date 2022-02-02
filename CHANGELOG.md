@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 10.0.41
+
+### Patch Changes
+
+- fix: array arguments: immutable: readonly
+
 ## 10.0.40
 
 ### Patch Changes

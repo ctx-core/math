@@ -1,2 +1,2 @@
-export declare function std_(a: number[]): number;
-export { std_ as std, };
+export declare function std_(a:readonly number[]):number;
+export { std_ as std, }

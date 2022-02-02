@@ -1,4 +1,4 @@
 /**
  * Multiplies the arguments
  */
-export declare function mul(values: number[]): number;
+export declare function mul(values:readonly number[]):number;
