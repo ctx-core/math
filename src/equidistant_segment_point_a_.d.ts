@@ -6,7 +6,7 @@ export declare function equidistant_segment_point_a_(
 ):number[];
 export interface equidistant_segment_point_a__opts_I {
 	length?:number;
-	range?:number[];
+	range?:readonly number[];
 }
 export {
 	equidistant_segment_point_a_ as _equidistant_segment_point_a1,

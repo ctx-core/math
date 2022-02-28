@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 10.0.43
+
+### Patch Changes
+
+- fix: equidistant*segment_point_a\_\_opts_I['range'],median_sorted*(a),quantile<Bound>: readonly array type
+
 ## 10.0.42
 
 ### Patch Changes

@@ -7,8 +7,7 @@ export const quantile_ = (a, bound_a, sorted_ = quantile_sorted_)=>{
 		const pos = Math.floor((sorted.length - 1) * q)
 		const base = pos
 		const rest = pos - base
-		const quantile_val = sorted[base + 1] !== undefined ? sorted[base] + rest * (sorted[base + 1] - sorted[base]) : sorted[base]
-		return quantile_val
+		return sorted[base + 1] !== undefined ? sorted[base] + rest * (sorted[base + 1] - sorted[base]) : sorted[base]
 	})
 }
 export function quantile_sorted_(a) {
