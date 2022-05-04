@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/math",
-	"version": "10.0.48",
+	"version": "10.0.49",
 	"description": "ctx-core math",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "^26.2.2",
-		"@ctx-core/number": "^8.0.39"
+		"@ctx-core/number": "^8.0.40"
 	},
 	"devDependencies": {
 		"c8": "^7.11.2",
