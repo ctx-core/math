@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 10.1.0
+
+### Minor Changes
+
+- add: feat: nullish argument returns null
+
 ## 10.0.54
 
 ### Patch Changes

@@ -1,4 +1,4 @@
-import { sum_ } from './add.js'
+import { sum_ } from './add/index.js'
 import { mean_ } from './mean_.js'
 /**
  * sample standard deviation

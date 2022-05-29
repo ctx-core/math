@@ -1,4 +1,4 @@
-import { sum } from './add.js'
+import { sum } from './add/index.js'
 /**
  * Average of the numerator_a
  * @type {import('./mean_.d.ts').mean_}

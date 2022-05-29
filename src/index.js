@@ -1,4 +1,4 @@
-export * from './add.js'
+export * from './add/index.js'
 export * from './deg_rad_.js'
 export * from './div.js'
 export * from './equidistant_segment_point_a_.js'

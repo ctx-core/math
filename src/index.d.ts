@@ -1,4 +1,4 @@
-export * from './add'
+export * from './add/index'
 export * from './deg_rad_'
 export * from './div'
 export * from './equidistant_segment_point_a_'
