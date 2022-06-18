@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 10.1.4
+
+### Patch Changes
+
+- @ctx-core/number: 8.2.1
+
 ## 10.1.3
 
 ### Patch Changes
