@@ -33,7 +33,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "^26.6.0",
-		"@ctx-core/number": "^8.2.1"
+		"@ctx-core/number": "^8.3.0"
 	},
 	"devDependencies": {
 		"c8": "^7.11.3",
