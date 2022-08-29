@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.1.6
+
+### Patch Changes
+
+- tsx: ^3.8.2 -> ^3.9.0
+- Updated dependencies
+  - @ctx-core/array@26.7.7
+  - @ctx-core/number@8.3.1
+
 ## 10.1.5
 
 ### Patch Changes
