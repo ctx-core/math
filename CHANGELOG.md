@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 10.2.1
+
+### Patch Changes
+
+- add: fix: if a numerator is NaN: return NaN
+
 ## 10.2.0
 
 ### Minor Changes
