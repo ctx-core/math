@@ -2,11 +2,14 @@
  * Adds the arguments
  * @type {import(add).add}
  */
+import { isNumber_ } from '@ctx-core/number'
 export const add = numerator_a=>{
 	if (!numerator_a) return null
-	let sum = 0
-	for (let i = 0; i < numerator_a.length; i++) {
-		sum += numerator_a[i]
+	let sum = null
+	for (const $ of numerator_a) {
+		if (isNumber_($)) {
+			sum = isNumber_(sum) ? sum + $ : $
+		}
 	}
 	return sum
 }

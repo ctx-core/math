@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 10.2.0
+
+### Minor Changes
+
+- add: return null if all numerators are nullish
+
+  mean\_: return null if sum is null
+
 ## 10.1.6
 
 ### Patch Changes
