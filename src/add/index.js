@@ -1,8 +1,7 @@
 /**
  * Adds the arguments
- * @type {import(add).add}
  */
-export const add = numerator_a=>{
+export function add(numerator_a) {
 	if (!numerator_a) return null
 	let sum = null
 	for (const $ of numerator_a) {
