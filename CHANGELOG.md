@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 10.3.2
+
+### Patch Changes
+
+- @ctx-core/array: ^26.8.1 -> ^26.8.2
+
 ## 10.3.1
 
 ### Patch Changes
