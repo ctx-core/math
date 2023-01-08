@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/math",
-	"version": "10.3.9",
+	"version": "10.3.10",
 	"description": "ctx-core math",
 	"keywords": [
 		"ctx-core",
@@ -32,7 +32,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.8.9",
+		"@ctx-core/array": "^26.8.10",
 		"@ctx-core/number": "^8.6.0"
 	},
 	"devDependencies": {
