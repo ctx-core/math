@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.3.13
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/array@26.8.13
+  - @ctx-core/number@8.6.1
+
 ## 10.3.12
 
 ### Patch Changes

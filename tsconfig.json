@@ -26,7 +26,6 @@
 		"declarationDir": "lib",
 		"skipLibCheck": true,
 		"lib": ["dom", "ESNext"],
-		"importsNotUsedAsValues": "error",
 		"strict": true
 	},
 	"exclude": [
