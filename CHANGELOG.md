@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.3.73
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/array@26.12.32
+  - @ctx-core/number@8.6.22
+
 ## 10.3.72
 
 ### Patch Changes
