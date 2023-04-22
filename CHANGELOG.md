@@ -1,5 +1,15 @@
 # @ctx-core/math
 
+## 10.4.0
+
+### Minor Changes
+
+- - number\__count_
+
+### Patch Changes
+
+- mean\_,fn_mean\_: fix: null members are excluded from denominator count
+
 ## 10.3.73
 
 ### Patch Changes

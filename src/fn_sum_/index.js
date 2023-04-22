@@ -9,4 +9,7 @@ export function fn_sum_(a, numerator_) {
 	}
 	return sum
 }
-export { fn_sum_ as _fn_sum, fn_sum_ as _sum__fn, }
+export {
+	fn_sum_ as _fn_sum,
+	fn_sum_ as _sum__fn,
+}

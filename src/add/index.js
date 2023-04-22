@@ -1,5 +1,8 @@
+/** @typedef {import('@ctx-core/function').nullish}nullish */
 /**
  * Adds the arguments
+ * @param {readonly (number|nullish)[]|nullish}numerator_a
+ * @returns {null}
  */
 export function add(numerator_a) {
 	if (!numerator_a) return null
@@ -14,4 +17,8 @@ export function add(numerator_a) {
 /**
  * Sum of the numerators
  */
-export { add as _sum, add as sum, add as sum_, }
+export {
+	add as _sum,
+	add as sum,
+	add as sum_,
+}
