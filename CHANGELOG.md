@@ -1,5 +1,14 @@
 # @ctx-core/math
 
+## 10.4.18
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/array@26.15.2
+  - @ctx-core/number@8.6.23
+
 ## 10.4.17
 
 ### Patch Changes
