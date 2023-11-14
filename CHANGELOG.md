@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 10.5.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - ctx-core@2.2.2
+
 ## 10.5.2
 
 ### Patch Changes
