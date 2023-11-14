@@ -1,5 +1,15 @@
 # @ctx-core/math
 
+## 10.5.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 10.5.3
 
 ### Patch Changes
