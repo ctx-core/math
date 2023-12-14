@@ -1,5 +1,11 @@
 # @ctx-core/math
 
+## 10.5.52
+
+### Patch Changes
+
+- ctx-core: ^4.18.0 -> ^4.19.0
+
 ## 10.5.51
 
 ### Patch Changes
