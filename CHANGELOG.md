@@ -1,5 +1,12 @@
 # @ctx-core/math
 
+## 10.5.56
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+- ctx-core: ^5.0.2 -> ^5.1.0
+
 ## 10.5.55
 
 ### Patch Changes
