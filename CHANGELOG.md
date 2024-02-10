@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 10.5.133
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+- Updated dependencies
+  - ctx-core@6.1.2
+
 ## 10.5.132
 
 ### Patch Changes
