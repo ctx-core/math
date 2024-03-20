@@ -1,5 +1,13 @@
 # @ctx-core/math
 
+## 10.5.156
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 10.5.155
 
 ### Patch Changes
