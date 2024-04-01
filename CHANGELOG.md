@@ -1,5 +1,12 @@
 # @ctx-core/math
 
+## 10.5.165
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@7.0.0
+
 ## 10.5.164
 
 ### Patch Changes
